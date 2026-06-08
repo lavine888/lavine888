@@ -61,22 +61,6 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
   </tr>
 </table>
 
-## 🛠️Tech Radar
-
-<div align="center">
-
-![Skills](https://skillicons.dev/icons?i=python,js,html,css,matlab,r,git,github,vscode)
-
-</div>
-
-| Layer | What I Work With |
-| --- | --- |
-| Programming | Python, JavaScript, HTML, CSS, MATLAB, R |
-| AI and Data | NLP, data cleaning, statistical modeling, time series, computer vision |
-| Product | AI product thinking, agile delivery, Scrum, demo design |
-| Quant | factor research, signal evaluation, IC / IR, return analysis |
-| Coursework | data science, network security, advanced algebra, mathematical analysis |
-
 
 ## 🛠️Tech Radar
 
