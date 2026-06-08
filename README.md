@@ -11,7 +11,7 @@
 
 </div>
 
-## ♓About me
+## ♓About Me
 
 I am a math and computer science learner building toward AI products, quantitative modeling, and practical data systems.
 
