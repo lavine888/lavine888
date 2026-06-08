@@ -77,24 +77,21 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 | Quant | factor research, signal evaluation, IC / IR, return analysis |
 | Coursework | data science, network security, advanced algebra, mathematical analysis |
 
-## Education
+## 🎓 Education
 
 ```text
-City University of Hong Kong
-MSc in Computing / Computer Science, 2025 - present
 
-Ocean University of China
-BSc in Mathematics and Applied Mathematics, 2020 - 2024
+* **Master of Science in Computing** - Department of Computer Science - [City University of Hong Kong](https://www.cityu.edu.hk/)
+* * 2025 - present
+* **Bachelor of Science in Software Mathematics and Applied Mathematics** - Haide College - [Ocean University of China](https://www.ouc.edu.cn/)
+* *2020 - 2024**
 ```
 
-### 🎓 Education
 
-* **Master of Science in Electronic Commerce** - Department of Computer Science - [City University of Hong Kong](https://www.cityu.edu.hk/)
-* *Graduated: October 2024*
-* **Bachelor of Engineering in Software Engineering** - School of Software - [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
-* *Graduated: July 2023*
 
----
+
+
+
 
 ## GitHub Dashboard
 
