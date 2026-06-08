@@ -66,7 +66,7 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,js,html,css,matlab,r,git,github,vscode,codex)
+![Skills](https://skillicons.dev/icons?i=python,js,html,css,matlab,r,git,github,vscode)
 
 | Layer | What I Work With |
 | --- | --- |
