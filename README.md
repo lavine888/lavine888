@@ -63,7 +63,7 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 
 
 
-```md
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,7 +74,7 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
-```
+
 
 
 ## 🛠️Tech Radar
