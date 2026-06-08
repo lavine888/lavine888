@@ -11,7 +11,7 @@
 
 </div>
 
-## About
+## ♓About me
 
 I am a math and computer science learner building toward AI products, quantitative modeling, and practical data systems.
 
@@ -34,7 +34,7 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
   </tr>
 </table>
 
-## Featured Projects
+## 🌳Featured Projects
 
 <table>
   <tr>
@@ -90,27 +90,13 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 
 
 
-
-
-
-## GitHub Dashboard
-
-<div align="center">
-
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lavine888&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavine888&layout=compact&theme=tokyonight&hide_border=true">
-
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=lavine888&theme=tokyonight&hide_border=true">
-
-</div>
-
-## Current Direction
+## ⚡Current Direction
 
 - Build small AI-native tools that can be tested by real users.
 - Practice quantitative research with clearer data pipelines and evaluation loops.
 - Turn product ideas into readable demos, repos, and deployment-ready interfaces.
 
-## Contact
+## 📫Contact
 
 <div align="center">
 
