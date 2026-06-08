@@ -71,7 +71,7 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 
 
 
-![Skills](https://skillicons.dev/icons?i=python,matlab,r,git,github,vscode)
+![Skills](https://skillicons.dev/icons?i=python,js,html,css,matlab,r,git,github,vscode)
 
 
 
