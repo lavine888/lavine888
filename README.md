@@ -70,7 +70,7 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 
 | Layer | What I Work With |
 | --- | --- |
-| Programming | Python, JavaScript, HTML, CSS, MATLAB, R |
+| Programming | Python, JavaScript, HTML, CSS, MATLAB, R, Codex, Claude |
 | AI and Data | NLP, Data Cleaning, Statistical Modeling, Time Series, Computer Vision |
 | Product | AI Product Thinking, Agile Delivery, Scrum, Demo Design |
 | Quant | Factor Research, Signal Evaluation, IC / IR, Return Analysis |
