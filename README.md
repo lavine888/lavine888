@@ -71,14 +71,14 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 
 
 
-![Skills](https://skillicons.dev/icons?i=python,js,html,css,matlab,r,git,github,vscode)
+![Skills](https://skillicons.dev/icons?i=python,,matlab,r,git,github,vscode)
 
 
 
 <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI_API-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-1F1F1F?style=for-the-badge&logo=cursor&logoColor=white" />
+
 
 </div>
 
