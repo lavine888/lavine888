@@ -62,7 +62,6 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 </table>
 
 
-```md id="b69g46"
 # 🛠️ Tech Radar
 
 <div align="center">
