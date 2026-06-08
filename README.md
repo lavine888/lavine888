@@ -61,6 +61,8 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
   </tr>
 </table>
 
+<div align="center"> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white) </div>
+
 ## 🛠️Tech Radar
 
 <div align="center">
