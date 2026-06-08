@@ -62,6 +62,36 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 </table>
 
 
+```md id="b69g46"
+# 🛠️ Tech Radar
+
+<div align="center">
+
+## Core Stack
+
+![Skills](https://skillicons.dev/icons?i=python,js,html,css,matlab,r,git,github,vscode)
+
+<br>
+
+## AI Tools
+
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-1F1F1F?style=for-the-badge&logo=cursor&logoColor=white" />
+
+</div>
+
+---
+
+| Layer | What I Work With |
+| --- | --- |
+| AI and Data | NLP, Data Cleaning, Statistical Modeling, Time Series, Computer Vision |
+| Product | AI Product Thinking, Agile Delivery, Scrum, Demo Design |
+| Quant | Factor Research, Signal Evaluation, IC / IR, Return Analysis |
+| Coursework | Data Science, Network Security, Advanced Algebra, Mathematical Analysis |
+
+```
 
 
 <div align="center">
