@@ -61,12 +61,11 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
   </tr>
 </table>
 
-
 ## 🛠️Tech Radar
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,js,html,css,matlab,r,git,github,vscode)
+![Skills](https://skillicons.dev/icons?i=python,js,html,css,matlab,r,git,github,vscode,claude,openai)
 
 | Layer | What I Work With |
 | --- | --- |
