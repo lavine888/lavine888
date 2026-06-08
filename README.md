@@ -60,7 +60,48 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
     </td>
   </tr>
 </table>
+## 🛠️Tech Radar
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,matlab,r,git,github,vscode" alt="Skills" />
+<img src="https://img.shields.io/badge/Claude-D97752?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/OpenAI_Codex-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+
+</div>
+
+<br>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left">Layer</th>
+      <th align="left">What I Work With</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Programming</b></td>
+      <td>Python, JavaScript, HTML, CSS, MATLAB, R</td>
+    </tr>
+    <tr>
+      <td><b>AI and Data</b></td>
+      <td>NLP, data cleaning, statistical modeling, time series, computer vision, <b>Claude, Codex</b></td>
+    </tr>
+    <tr>
+      <td><b>Product</b></td>
+      <td>AI product thinking, agile delivery, Scrum, demo design</td>
+    </tr>
+    <tr>
+      <td><b>Quant</b></td>
+      <td>factor research, signal evaluation, IC / IR, return analysis</td>
+    </tr>
+    <tr>
+      <td><b>Coursework</b></td>
+      <td>data science, network security, advanced algebra, mathematical analysis</td>
+    </tr>
+  </tbody>
+</table>
 ## 🛠️Tech Radar
 
 <div align="center">
