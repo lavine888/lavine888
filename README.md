@@ -81,9 +81,9 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 
 
 
-* **Master of Science in Computing** - Department of Computer Science - [City University of Hong Kong](https://www.cityu.edu.hk/)
+* **Master of Science in Computing(Intelligence & Digital commerce)** - Department of Computer Science - [City University of Hong Kong](https://www.cityu.edu.hk/)
 * *2025 - present*
-* **Bachelor of Science in Software Mathematics and Applied Mathematics** - Haide College - [Ocean University of China](https://www.ouc.edu.cn/)
+* **Bachelor of Science in  Mathematics and Applied Mathematics** - Haide College - [Ocean University of China](https://www.ouc.edu.cn/)
 * *2020 - 2024*
 
 
