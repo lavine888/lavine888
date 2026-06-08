@@ -62,46 +62,6 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 </table>
 
 
-# 🛠️ Tech Radar
-
-<div align="center">
-
-## Core Stack
-
-![Skills](https://skillicons.dev/icons?i=python,js,html,css,matlab,r,git,github,vscode)
-
-<br>
-
-## AI Tools
-
-<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_API-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-1F1F1F?style=for-the-badge&logo=cursor&logoColor=white" />
-
-</div>
-
----
-
-| Layer | What I Work With |
-| --- | --- |
-| AI and Data | NLP, Data Cleaning, Statistical Modeling, Time Series, Computer Vision |
-| Product | AI Product Thinking, Agile Delivery, Scrum, Demo Design |
-| Quant | Factor Research, Signal Evaluation, IC / IR, Return Analysis |
-| Coursework | Data Science, Network Security, Advanced Algebra, Mathematical Analysis |
-
-
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
 
 
 
@@ -125,7 +85,7 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,js,html,css,matlab,r,git,github,vscode,claude,openai)
+
 
 | Layer | What I Work With |
 | --- | --- |
