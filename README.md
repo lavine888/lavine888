@@ -109,13 +109,11 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 
 <div align="center">
 
-## Core Stack
+
 
 ![Skills](https://skillicons.dev/icons?i=python,js,html,css,matlab,r,git,github,vscode)
 
-<br>
 
-## AI Tools
 
 <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
