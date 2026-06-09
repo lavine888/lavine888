@@ -21,15 +21,15 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
   <tr>
     <td width="33%">
       <b>AI Product</b><br>
-      LLM application thinking, prototype flows, intelligent recommendation logic, fast demo delivery.
+      LLM Application Thinking, Prototype Flows, Intelligent Recommendation Logic, Fast Demo Delivery.
     </td>
     <td width="33%">
       <b>Quant Modeling</b><br>
-      Python factor research, data cleaning, signal evaluation, IC / IR, return analysis.
+      Python Factor Research, Data Cleaning, Signal Evaluation, IC / IR, Return Analysis.
     </td>
     <td width="33%">
       <b>Data Systems</b><br>
-      NLP, statistical modeling, time series analysis, computer vision, cybersecurity coursework.
+      NLP, Statistical Modeling, Time Series Analysis, Computer Vision, Cybersecurity Coursework.
     </td>
   </tr>
 </table>
