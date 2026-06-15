@@ -56,7 +56,7 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 
   <tr>
     <td>
-      <h3>LiveLink</h3>
+      <h3><a href="https://livelink-delta.vercel.app/">LiveLink</a></h3>
       <p><b>AI-driven value networking tool</b></p>
       <p>Built during a 30-hour hackathon, from concept to product demo.</p>
       <ul>
