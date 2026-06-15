@@ -17,22 +17,7 @@ I am a math and computer science learner building toward AI products, quantitati
 
 My current focus is turning ambiguous ideas into testable prototypes: product logic, AI workflows, data pipelines, and compact web experiences.
 
-<table>
-  <tr>
-    <td width="33%">
-      <b>AI Product</b><br>
-      LLM Application Thinking, Prototype Flows, Intelligent Recommendation Logic, Fast Demo Delivery.
-    </td>
-    <td width="33%">
-      <b>Quant Modeling</b><br>
-      Python Factor Research, Data Cleaning, Signal Evaluation, IC / IR, Return Analysis.
-    </td>
-    <td width="33%">
-      <b>Data Systems</b><br>
-      NLP, Statistical Modeling, Time Series Analysis, Computer Vision, Cybersecurity Coursework.
-    </td>
-  </tr>
-</table>
+
 
 ## 🌳Featured Projects
 
