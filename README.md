@@ -58,6 +58,21 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
         <li>Completed large-scale data cleaning and factor mining.</li>
       </ul>
     </td>
+       <td width="50%">
+      <h3><a href="https://omo.space/agentjam">Agent JAM</a></h3>
+      <p><b>First Prize · Agent Builder Hackathon @ Shenzhen</b></p>
+      <p>
+        A spatial AI coding collaboration platform where teams build one live project
+        together inside a shared Minecraft-style world.
+      </p>
+      <ul>
+        <li>Won First Prize at Agent Builder Hackathon @ Shenzhen, hosted by StepFun.</li>
+        <li>Built around multi-agent collaboration, live project sync, in-world terminals, and real-time review.</li>
+        <li>Presented a “Google Docs for code” experience: spatial, voice-driven, and AI-powered.</li>
+        <li>Completed during the on-site hackathon sprint on June 14, 2026.</li>
+      </ul>
+    </td>
+    <td width="50%">
   </tr>
 </table>
 
