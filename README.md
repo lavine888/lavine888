@@ -38,64 +38,24 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>LiveLink</h3>
-      <p><b>AI-driven value networking tool</b></p>
-      <p>Built during a 30-hour hackathon, from concept to product demo.</p>
-      <ul>
-        <li>Designed core interaction logic and multi-page product structure.</li>
-        <li>Shaped AI-powered sharing and recommendation workflows.</li>
-        <li>Used agile delivery to move from assumptions to prototype.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>PandaAI Quant Factor Competition</h3>
-      <p><b>Python-based quantitative factor research</b></p>
-      <p>National runner-up, top 1 percent among thousands of participants.</p>
-      <ul>
-        <li>Built a model with more than 50 percent competition return.</li>
-        <li>Kept IC and IR metrics in the top tier.</li>
-        <li>Completed large-scale data cleaning and factor mining.</li>
-      </ul>
-    </td>
-       <td width="50%">
+    <td>
       <h3><a href="https://omo.space/agentjam">Agent JAM</a></h3>
-      <p><b>First Prize · Agent Builder Hackathon @ Shenzhen</b></p>
+      <p><b>First Prize · Agent Builder Hackathon @ Shenzhen · Hosted by StepFun</b></p>
       <p>
         A spatial AI coding collaboration platform where teams build one live project
         together inside a shared Minecraft-style world.
       </p>
       <ul>
-        <li>Won First Prize at Agent Builder Hackathon @ Shenzhen, hosted by StepFun.</li>
+        <li>Won First Prize at Agent Builder Hackathon @ Shenzhen.</li>
         <li>Built around multi-agent collaboration, live project sync, in-world terminals, and real-time review.</li>
         <li>Presented a “Google Docs for code” experience: spatial, voice-driven, and AI-powered.</li>
         <li>Completed during the on-site hackathon sprint on June 14, 2026.</li>
       </ul>
     </td>
-    <td width="50%">
   </tr>
-</table>
 
-
-## 🌳Featured Projects
-
-<table>
   <tr>
-    <td width="50%">
-      <h3><a href="https://omo.space/agentjam">Agent JAM</a></h3>
-      <p><b>First Prize · Agent Builder Hackathon @ Shenzhen</b></p>
-      <p>
-        A spatial AI coding collaboration platform where teams build one live project
-        together inside a shared Minecraft-style world.
-      </p>
-      <ul>
-        <li>Won First Prize at Agent Builder Hackathon @ Shenzhen, hosted by StepFun.</li>
-        <li>Built around multi-agent collaboration, live project sync, in-world terminals, and real-time review.</li>
-        <li>Presented a “Google Docs for code” experience: spatial, voice-driven, and AI-powered.</li>
-        <li>Completed during the on-site hackathon sprint on June 14, 2026.</li>
-      </ul>
-    </td>
-    <td width="50%">
+    <td>
       <h3>LiveLink</h3>
       <p><b>AI-driven value networking tool</b></p>
       <p>Built during a 30-hour hackathon, from concept to product demo.</p>
@@ -106,8 +66,9 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
       </ul>
     </td>
   </tr>
+
   <tr>
-    <td width="50%">
+    <td>
       <h3>PandaAI Quant Factor Competition</h3>
       <p><b>Python-based quantitative factor research</b></p>
       <p>National runner-up, top 1 percent among thousands of participants.</p>
@@ -115,19 +76,6 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
         <li>Built a model with more than 50 percent competition return.</li>
         <li>Kept IC and IR metrics in the top tier.</li>
         <li>Completed large-scale data cleaning and factor mining.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>Agent Builder Hackathon</h3>
-      <p><b>Shenzhen · StepFun · 2026.06.14</b></p>
-      <p>
-        On-site AI agent hackathon focused on agent builder products, fast prototyping,
-        live demos, and product storytelling.
-      </p>
-      <ul>
-        <li>Event location: Shenzhen University Yuehai Campus.</li>
-        <li>Format: check-in, opening, rules, lunch discussion, 4-hour build sprint, demo review, awards.</li>
-        <li>Agent JAM received First Prize in the final selection.</li>
       </ul>
     </td>
   </tr>
