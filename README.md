@@ -137,17 +137,7 @@ I care less about ideas themselves, and more about whether they can be executed,
 - Practice quantitative research with clearer data pipelines and evaluation loops.
 - Turn product ideas into readable demos, repos, and deployment-ready interfaces.
 
-<details>
-<summary>🧠 Philosophy / 方法论</summary>
 
-<br>
-
-- Build first, think later  
-- Real systems > abstract ideas  
-- Feedback loop > perfection  
-- Small demos > big visions  
-
-</details>
 
 ## 📫Contact
 
