@@ -11,13 +11,15 @@
 
 </div>
 
-## ♓About Me
-
-I am a math and computer science learner building toward AI products, quantitative modeling, and practical data systems.
-
-My current focus is turning ambiguous ideas into testable prototypes: product logic, AI workflows, data pipelines, and compact web experiences.
 
 
+## ♓ About Me
+
+I am a math and computer science learner focused on AI products, quantitative modeling, and data systems.
+
+My core direction is turning ambiguous ideas into working systems — including AI applications, product prototypes, data pipelines, and testable quantitative strategies.
+
+I care less about ideas themselves, and more about whether they can be executed, tested, and iterated quickly.
 
 ## 🌳Featured Projects
 
