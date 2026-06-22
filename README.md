@@ -41,6 +41,23 @@ My current focus is turning ambiguous ideas into testable prototypes: product lo
 
   <tr>
     <td>
+      <h3><a href="https://github.com/lavine888/bull-bear-exchange-island">Bull & Bear Exchange Island</a></h3>
+      <p><b>Spatial financial world built with ByteDance's World Creator Editor</b></p>
+      <p>
+        An immersive trading community where users enter as avatars to learn,
+        discuss markets, share strategies, and explore bull-versus-bear experiences.
+      </p>
+      <ul>
+        <li>Designed a floating financial island around bull and bear factions, market sentiment, and risk education.</li>
+        <li>Built Alpha Tower as a layered learning hub for candlesticks, classic cases, trading strategies, and live market views.</li>
+        <li>Combined real-time watchlists, strategy sharing, social interaction, and market-event gameplay.</li>
+        <li>Prototyped the 3D world with AI-assisted terrain and asset generation in the World Creator Editor.</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
       <h3><a href="https://livelink-delta.vercel.app/">LiveLink</a></h3>
       <p><b>AI-driven value networking tool</b></p>
       <p>Built during a 30-hour hackathon, from concept to product demo.</p>
