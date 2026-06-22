@@ -20,7 +20,17 @@ I am a math and computer science learner focused on AI products, quantitative mo
 My core direction is turning ambiguous ideas into working systems — including AI applications, product prototypes, data pipelines, and testable quantitative strategies.
 
 I care less about ideas themselves, and more about whether they can be executed, tested, and iterated quickly.
+<details>
+<summary>🧠 Philosophy / 方法论</summary>
 
+<br>
+
+- Build first, think later  
+- Real systems > abstract ideas  
+- Feedback loop > perfection  
+- Small demos > big visions  
+
+</details>
 ## 🌳Featured Projects
 
 <table>
