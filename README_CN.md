@@ -1,8 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:14b8a6&text=Lavine%20Xie&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=AI%20%E4%BA%A7%E5%93%81%20%7C%20%E9%87%8F%E5%8C%96%E5%BB%BA%E6%A8%A1%20%7C%20%E6%95%B0%E6%8D%AE%E7%B3%BB%E7%BB%9F&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:14b8a6&text=Lavine%20Xie&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=AI%20Product%20%7C%20Quant%20Modeling%20%7C%20Data%20Systems&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=%E6%95%B0%E5%AD%A6%20%2B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E8%80%85%3B%E6%9E%84%E5%BB%BA%20AI%20%E4%BA%A7%E5%93%81%E5%8E%9F%E5%9E%8B%3B%E7%94%A8%20Python%20%E6%8E%A2%E7%B4%A2%E9%87%8F%E5%8C%96%E4%BF%A1%E5%8F%B7%3B%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E5%8F%AF%E6%B5%8B%E8%AF%95%E7%9A%84%E7%B3%BB%E7%BB%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Math+%2B+Computer+Science+learner;Building+AI+product+prototypes;Exploring+quantitative+signals+with+Python;Turning+ideas+into+testable+systems)](https://git.io/typing-svg)
 
 <a href="mailto:lavinexie@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lavinexie%40foxmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <img alt="Location" src="https://img.shields.io/badge/Hong%20Kong%20%2F%20Shenzhen-111827?style=for-the-badge&logo=googlemaps&logoColor=white">
