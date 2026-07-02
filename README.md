@@ -12,7 +12,7 @@
 </div>
 
 
-
+**English** | [简体中文](README_CN.md)
 ## ♓ About Me
 
 I am a math and computer science learner focused on AI products, quantitative modeling, and data systems.
