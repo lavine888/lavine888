@@ -28,10 +28,9 @@
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/lavine888/loop">我在 · Wozai</a></h3>
+      <h3><a href="https://www.wozai.space/">我在 · Wozai</a></h3>
       <p><b>香港 Physical AI Hackathon 赛道第二名 · 团队共创</b></p>
       <p>一款围绕真实生命记录与关系托付打造的 AI 产品：在获得授权的前提下，把真实记忆有分寸地交给至亲，而不是制造“数字复活”。</p>
-      <p><a href="https://github.com/lavine888/loop">项目仓库</a> · <a href="https://www.wozai.space/">官方网站</a></p>
     </td>
   </tr>
   <tr>
@@ -73,7 +72,6 @@
 <br />
 
 <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex" />
 <img src="https://img.shields.io/badge/OpenAI_API-0A0A0A?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI API" />
 
 </div>
