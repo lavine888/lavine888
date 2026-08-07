@@ -15,6 +15,15 @@
       </stop>
       <stop offset="1" stop-color="#050914" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="titleSheen" x1="-360" y1="0" x2="-80" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8edf8"/>
+      <stop offset="0.42" stop-color="#e8edf8"/>
+      <stop offset="0.5" stop-color="#fff1cf"/>
+      <stop offset="0.58" stop-color="#e8edf8"/>
+      <stop offset="1" stop-color="#e8edf8"/>
+      <animate attributeName="x1" values="-360;400" dur="6.8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-80;680" dur="6.8s" repeatCount="indefinite"/>
+    </linearGradient>
     <pattern id="dots" width="74" height="74" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1.2" fill="#d8e0ef" fill-opacity="0.13"/>
     </pattern>
@@ -30,19 +39,18 @@
     <rect width="1200" height="420" fill="url(#dots)"/>
 
     <g transform="translate(86 82)">
-      <text x="0" y="78" fill="#e8edf8" font-family="Georgia, Times New Roman, serif" font-size="70" font-weight="700" letter-spacing="-3.2">LavineX</text>
+      <text x="0" y="78" fill="url(#titleSheen)" font-family="Georgia, Times New Roman, serif" font-size="70" font-weight="700" letter-spacing="-3.2">LavineX</text>
 
       <text x="0" y="158" fill="#d6a85a" font-family="Georgia, Times New Roman, serif" font-size="51" font-weight="700" letter-spacing="-2">AI Product Builder</text>
       <line x1="478" y1="116" x2="478" y2="164" stroke="#d8e0ef" stroke-opacity="0.42" stroke-width="2">
         <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.42;0.5;0.92;1" dur="1.3s" repeatCount="indefinite"/>
       </line>
       <text x="0" y="220" fill="#d6a85a" font-family="Georgia, Times New Roman, serif" font-size="51" font-weight="700" letter-spacing="-2">Quant Researcher</text>
-
-      <line x1="0" y1="252" x2="80" y2="252" stroke="#d6a85a" stroke-width="3">
-        <animate attributeName="x2" values="80;132;80" dur="4.8s" repeatCount="indefinite"/>
-      </line>
-      <text x="0" y="294" fill="#a8b4c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="0.1">Turning ambitious ideas into working systems — from zero to demo, from signal to evidence.</text>
     </g>
+
+    <line x1="86" y1="334" x2="166" y2="334" stroke="#d6a85a" stroke-width="3">
+      <animate attributeName="x2" values="166;218;166" dur="4.8s" repeatCount="indefinite"/>
+    </line>
 
   </g>
 </svg>
