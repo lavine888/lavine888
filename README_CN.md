@@ -6,6 +6,7 @@
   <a href="https://lavine-site.vercel.app/"><img alt="个人网站" src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
   <a href="mailto:lavinexie@foxmail.com"><img alt="邮箱" src="https://img.shields.io/badge/Email-2563eb?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
   <img alt="地点" src="https://img.shields.io/badge/Hong%20Kong%20%2F%20Shenzhen-14b8a6?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" />
+  <img alt="主页访问量" src="https://komarev.com/ghpvc/?username=lavine888&amp;style=flat-square&amp;color=d6a85a&amp;label=Profile+Views" />
 </p>
 
 <p align="center"><a href="README.md">English</a> · <strong>简体中文</strong></p>
@@ -22,37 +23,44 @@
 
 ## 🌳 精选项目
 
-### [我在 · Wozai](https://github.com/lavine888/loop)
-
-**香港 Physical AI Hackathon 赛道第二名 · 团队共创**
-
-一款围绕真实生命记录与关系托付打造的 AI 产品：在获得授权的前提下，把真实记忆有分寸地交给至亲，而不是制造“数字复活”。
-
-[项目仓库](https://github.com/lavine888/loop) · [官方网站](https://www.wozai.space/)
-
-### [Agent JAM](https://omo.space/agentjam)
-
-**深圳 Agent Builder Hackathon 一等奖 · 阶跃星辰主办**
-
-一款 AI 编程协作产品，把 Agent 执行、共享项目上下文与团队审查放进同一套实时工作流。
-
-### PandaAI 量化因子大赛
-
-**全国亚军 · 前 1%**
-
-基于 Python 完成数据清洗、因子研究、IC / IR 信号评估与比赛收益验证。
-
-### [LiveLink](https://livelink-delta.vercel.app/)
-
-**30 小时黑客松原型**
-
-一款 AI 价值社交产品，通过结构化职业身份，帮助用户发现更有价值的连接。
-
-### [Bull & Bear Exchange Island](https://github.com/lavine888/bull-bear-exchange-island)
-
-**AI 辅助金融学习原型**
-
-一款游戏化金融产品，把 K 线、市场情绪和交易策略转化为可探索的学习体验。
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/lavine888/loop">我在 · Wozai</a></h3>
+      <p><b>香港 Physical AI Hackathon 赛道第二名 · 团队共创</b></p>
+      <p>一款围绕真实生命记录与关系托付打造的 AI 产品：在获得授权的前提下，把真实记忆有分寸地交给至亲，而不是制造“数字复活”。</p>
+      <p><a href="https://github.com/lavine888/loop">项目仓库</a> · <a href="https://www.wozai.space/">官方网站</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://omo.space/agentjam">Agent JAM</a></h3>
+      <p><b>深圳 Agent Builder Hackathon 一等奖 · 阶跃星辰主办</b></p>
+      <p>一款 AI 编程协作产品，把 Agent 执行、共享项目上下文与团队审查放进同一套实时工作流。</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>PandaAI 量化因子大赛</h3>
+      <p><b>全国亚军 · 前 1%</b></p>
+      <p>基于 Python 完成数据清洗、因子研究、IC / IR 信号评估与比赛收益验证。</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://livelink-delta.vercel.app/">LiveLink</a></h3>
+      <p><b>30 小时黑客松原型</b></p>
+      <p>一款 AI 价值社交产品，通过结构化职业身份，帮助用户发现更有价值的连接。</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/lavine888/bull-bear-exchange-island">Bull &amp; Bear Exchange Island</a></h3>
+      <p><b>AI 辅助金融学习原型</b></p>
+      <p>一款游戏化金融产品，把 K 线、市场情绪和交易策略转化为可探索的学习体验。</p>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ 技术雷达
 
@@ -68,10 +76,23 @@
 
 </div>
 
+<div align="center">
+
+| 层级 | 我在使用和练习的内容 |
+| --- | --- |
+| 编程 | Python, JavaScript, HTML, CSS, MATLAB, R |
+| AI 产品 | LLM 应用, Agent, NLP, 快速原型, Demo 设计 |
+| 量化系统 | 因子研究, 统计建模, 时间序列, IC / IR, 收益验证 |
+| 工作流 | Git, GitHub, Codex, Claude |
+
+</div>
+
 ## 🎓 教育经历
 
-- **计算机科学硕士（Digital Commerce）** · 香港城市大学 · 2025–至今
-- **数学与应用数学学士** · 中国海洋大学 · 2020–2024
+* **Master of Science in Computing (Digital Commerce)** - Department of Computer Science - [City University of Hong Kong](https://www.cityu.edu.hk/)
+* *2025 - present*
+* **Bachelor of Science in Mathematics and Applied Mathematics** - Haide College - [Ocean University of China](https://www.ouc.edu.cn/)
+* *2020 - 2024*
 
 ## ⚡ 当前方向
 

@@ -6,6 +6,7 @@
   <a href="https://lavine-site.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
   <a href="mailto:lavinexie@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-2563eb?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
   <img alt="Location" src="https://img.shields.io/badge/Hong%20Kong%20%2F%20Shenzhen-14b8a6?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=lavine888&amp;style=flat-square&amp;color=d6a85a&amp;label=Profile+Views" />
 </p>
 
 <p align="center"><strong>English</strong> · <a href="README_CN.md">简体中文</a></p>
@@ -22,37 +23,44 @@ My working style is simple: define the real problem, build the smallest credible
 
 ## 🌳 Featured Projects
 
-### [Wozai · 我在](https://github.com/lavine888/loop)
-
-**2nd Place in Track · Hong Kong Physical AI Hackathon · Team Project**
-
-A relationship-centered AI product for preserving authentic life records and entrusting them to loved ones with consent and restraint—not digital resurrection.
-
-[Repository](https://github.com/lavine888/loop) · [Website](https://www.wozai.space/)
-
-### [Agent JAM](https://omo.space/agentjam)
-
-**First Prize · Agent Builder Hackathon, Shenzhen · Hosted by StepFun**
-
-An AI coding collaboration product that brings agent execution, shared project context, and team review into one live workflow.
-
-### PandaAI Quant Factor Competition
-
-**National Runner-up · Top 1%**
-
-A Python factor-research workflow for data cleaning, signal evaluation with IC / IR, and competition return validation.
-
-### [LiveLink](https://livelink-delta.vercel.app/)
-
-**30-hour Hackathon Prototype**
-
-An AI networking product that structures professional identity and helps users discover higher-value connections.
-
-### [Bull & Bear Exchange Island](https://github.com/lavine888/bull-bear-exchange-island)
-
-**AI-assisted Finance Learning Prototype**
-
-A game-based product that turns candlesticks, market sentiment, and trading strategies into an explorable learning experience.
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/lavine888/loop">Wozai · 我在</a></h3>
+      <p><b>2nd Place in Track · Hong Kong Physical AI Hackathon · Team Project</b></p>
+      <p>A relationship-centered AI product for preserving authentic life records and entrusting them to loved ones with consent and restraint—not digital resurrection.</p>
+      <p><a href="https://github.com/lavine888/loop">Repository</a> · <a href="https://www.wozai.space/">Website</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://omo.space/agentjam">Agent JAM</a></h3>
+      <p><b>First Prize · Agent Builder Hackathon, Shenzhen · Hosted by StepFun</b></p>
+      <p>An AI coding collaboration product that brings agent execution, shared project context, and team review into one live workflow.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>PandaAI Quant Factor Competition</h3>
+      <p><b>National Runner-up · Top 1%</b></p>
+      <p>A Python factor-research workflow for data cleaning, IC / IR signal evaluation, and competition return validation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://livelink-delta.vercel.app/">LiveLink</a></h3>
+      <p><b>30-hour Hackathon Prototype</b></p>
+      <p>An AI networking product that structures professional identity and helps users discover higher-value connections.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/lavine888/bull-bear-exchange-island">Bull &amp; Bear Exchange Island</a></h3>
+      <p><b>AI-assisted Finance Learning Prototype</b></p>
+      <p>A game-based product that turns candlesticks, market sentiment, and trading strategies into an explorable learning experience.</p>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Radar
 
@@ -68,10 +76,23 @@ A game-based product that turns candlesticks, market sentiment, and trading stra
 
 </div>
 
+<div align="center">
+
+| Layer | What I Work With |
+| --- | --- |
+| Programming | Python, JavaScript, HTML, CSS, MATLAB, R |
+| AI Products | LLM Applications, Agents, NLP, Rapid Prototyping, Demo Design |
+| Quantitative Systems | Factor Research, Statistical Modeling, Time Series, IC / IR, Return Validation |
+| Workflow | Git, GitHub, Codex, Claude |
+
+</div>
+
 ## 🎓 Education
 
-- **MSc in Computing (Digital Commerce)** · City University of Hong Kong · 2025–present
-- **BSc in Mathematics and Applied Mathematics** · Ocean University of China · 2020–2024
+* **Master of Science in Computing( Digital commerce)** - Department of Computer Science - [City University of Hong Kong](https://www.cityu.edu.hk/)
+* *2025 - present*
+* **Bachelor of Science in  Mathematics and Applied Mathematics** - Haide College - [Ocean University of China](https://www.ouc.edu.cn/)
+* *2020 - 2024*
 
 ## ⚡ Current Direction
 
