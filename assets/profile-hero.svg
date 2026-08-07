@@ -17,12 +17,14 @@
     </radialGradient>
     <linearGradient id="titleSheen" x1="-360" y1="0" x2="-80" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#e8edf8"/>
-      <stop offset="0.42" stop-color="#e8edf8"/>
-      <stop offset="0.5" stop-color="#fff1cf"/>
-      <stop offset="0.58" stop-color="#e8edf8"/>
+      <stop offset="0.32" stop-color="#e8edf8"/>
+      <stop offset="0.42" stop-color="#d6a85a"/>
+      <stop offset="0.5" stop-color="#fffaf0"/>
+      <stop offset="0.58" stop-color="#d6a85a"/>
+      <stop offset="0.68" stop-color="#e8edf8"/>
       <stop offset="1" stop-color="#e8edf8"/>
-      <animate attributeName="x1" values="-360;400" dur="6.8s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="-80;680" dur="6.8s" repeatCount="indefinite"/>
+      <animate attributeName="x1" values="-360;400" dur="5.2s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-80;680" dur="5.2s" repeatCount="indefinite"/>
     </linearGradient>
     <pattern id="dots" width="74" height="74" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1.2" fill="#d8e0ef" fill-opacity="0.13"/>

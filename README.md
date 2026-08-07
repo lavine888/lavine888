@@ -28,10 +28,9 @@ Across both tracks, I prefer evidence over storytelling alone: define the real p
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/lavine888/loop">Wozai · 我在</a></h3>
+      <h3><a href="https://www.wozai.space/">Wozai · 我在</a></h3>
       <p><b>2nd Place in Track · Hong Kong Physical AI Hackathon · Team Project</b></p>
       <p>A relationship-centered AI product for preserving authentic life records and entrusting them to loved ones with consent and restraint—not digital resurrection.</p>
-      <p><a href="https://github.com/lavine888/loop">Repository</a> · <a href="https://www.wozai.space/">Website</a></p>
     </td>
   </tr>
   <tr>
