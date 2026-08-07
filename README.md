@@ -1,168 +1,85 @@
-<div align="center">
+<p align="center">
+  <img src="assets/profile-hero.svg" width="100%" alt="Lavine Xie — AI Products and Quantitative Systems" />
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:14b8a6&text=Lavine%20Xie&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=AI%20Product%20%7C%20Quant%20Modeling%20%7C%20Data%20Systems&descAlignY=58&descSize=16)
+<p align="center">
+  <a href="https://lavine-site.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
+  <a href="mailto:lavinexie@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-2563eb?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
+  <img alt="Location" src="https://img.shields.io/badge/Hong%20Kong%20%2F%20Shenzhen-14b8a6?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Math+%2B+Computer+Science+learner;Building+AI+product+prototypes;Exploring+quantitative+signals+with+Python;Turning+ideas+into+testable+systems)](https://git.io/typing-svg)
+<p align="center"><strong>English</strong> · <a href="README_CN.md">简体中文</a></p>
 
-<a href="mailto:lavinexie@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lavinexie%40foxmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<img alt="Location" src="https://img.shields.io/badge/Hong%20Kong%20%2F%20Shenzhen-111827?style=for-the-badge&logo=googlemaps&logoColor=white">
-<img alt="Focus" src="https://img.shields.io/badge/AI%20Product%20%2B%20Quant-14b8a6?style=for-the-badge&logo=openai&logoColor=white">
-<img alt="Views" src="https://komarev.com/ghpvc/?username=lavine888&style=for-the-badge&color=2563eb">
-
-</div>
-
-
-**English** | [简体中文](README_CN.md)
 ## ♓ About Me
 
-I am a math and computer science learner focused on AI products, quantitative modeling, and data systems.
+I build along two connected tracks:
 
-My core direction is turning ambiguous ideas into working systems — including AI applications, product prototypes, data pipelines, and testable quantitative strategies.
+| AI Products | Quantitative Systems |
+| --- | --- |
+| Human-centered AI applications, agents, and rapid product prototypes. | Python-based factor research, signal evaluation, and reproducible analysis workflows. |
 
-I care less about ideas themselves, and more about whether they can be executed, tested, and iterated quickly.
+My working style is simple: define the real problem, build the smallest credible system, test it, and iterate from evidence.
 
-## 🌳Featured Projects
+## 🌳 Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/lavine888/loop">Wozai · 我在</a></h3>
-      <p><b>2nd Place in Track · Hong Kong Physical AI Hackathon · Co-created with teammates</b></p>
-      <p>
-        A relationship-centered life-record and entrustment companion Agent: preserve authentic memories while living, then help them reach loved ones with consent and restraint.
-      </p>
-      <ul>
-        <li>Focused on memory continuity and emotional connection—not “digital immortality.”</li>
-        <li>Grounded AI organizes, retrieves, and connects creator-confirmed voice, video, photos, words, and object stories without inventing memories or intentions.</li>
-        <li>Combined Alloop HRV and wearable signals with explicit user feedback to adjust presentation intensity, not diagnose emotion.</li>
-        <li>Reached the final round, and I created the product’s first promotional video with AI video-generation tools.</li>
-      </ul>
-    </td>
-  </tr>
+### [Wozai · 我在](https://github.com/lavine888/loop)
 
-  <tr>
-    <td>
-      <h3><a href="https://omo.space/agentjam">Agent JAM</a></h3>
-      <p><b>First Prize · Agent Builder Hackathon @ Shenzhen · Hosted by StepFun</b></p>
-      <p>
-        A spatial AI coding collaboration platform where teams build one live project
-        together inside a shared Minecraft-style world.
-      </p>
-      <ul>
-        <li>Won First Prize at Agent Builder Hackathon @ Shenzhen.</li>
-        <li>Built around multi-agent collaboration, live project sync, in-world terminals, and real-time review.</li>
-        <li>Presented a “Google Docs for code” experience: spatial, voice-driven, and AI-powered.</li>
-        <li>Completed during the on-site hackathon sprint on June 14, 2026.</li>
-      </ul>
-    </td>
-  </tr>
+**2nd Place in Track · Hong Kong Physical AI Hackathon · Team Project**
 
-  <tr>
-    <td>
-      <h3><a href="https://github.com/lavine888/bull-bear-exchange-island">Bull & Bear Exchange Island</a></h3>
-      <p><b>Spatial financial world built with ByteDance's World Creator Editor</b></p>
-      <p>
-        An immersive trading community where users enter as avatars to learn,
-        discuss markets, share strategies, and explore bull-versus-bear experiences.
-      </p>
-      <ul>
-        <li>Designed a floating financial island around bull and bear factions, market sentiment, and risk education.</li>
-        <li>Built Alpha Tower as a layered learning hub for candlesticks, classic cases, trading strategies, and live market views.</li>
-        <li>Combined real-time watchlists, strategy sharing, social interaction, and market-event gameplay.</li>
-        <li>Prototyped the 3D world with AI-assisted terrain and asset generation in the World Creator Editor.</li>
-      </ul>
-    </td>
-  </tr>
+A relationship-centered AI product for preserving authentic life records and entrusting them to loved ones with consent and restraint—not digital resurrection.
 
-  <tr>
-    <td>
-      <h3><a href="https://livelink-delta.vercel.app/">LiveLink</a></h3>
-      <p><b>AI-driven value networking tool</b></p>
-      <p>Built during a 30-hour hackathon, from concept to product demo.</p>
-      <ul>
-        <li>Designed core interaction logic and multi-page product structure.</li>
-        <li>Shaped AI-powered sharing and recommendation workflows.</li>
-        <li>Used agile delivery to move from assumptions to prototype.</li>
-      </ul>
-    </td>
-  </tr>
+[Repository](https://github.com/lavine888/loop) · [Website](https://www.wozai.space/)
 
-  <tr>
-    <td>
-      <h3>PandaAI Quant Factor Competition</h3>
-      <p><b>Python-based quantitative factor research</b></p>
-      <p>National runner-up, top 1 percent among thousands of participants.</p>
-      <ul>
-        <li>Built a model with more than 50 percent competition return.</li>
-        <li>Kept IC and IR metrics in the top tier.</li>
-        <li>Completed large-scale data cleaning and factor mining.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### [Agent JAM](https://omo.space/agentjam)
 
+**First Prize · Agent Builder Hackathon, Shenzhen · Hosted by StepFun**
 
-## 🛠️Tech Radar
+An AI coding collaboration product that brings agent execution, shared project context, and team review into one live workflow.
+
+### PandaAI Quant Factor Competition
+
+**National Runner-up · Top 1%**
+
+A Python factor-research workflow for data cleaning, signal evaluation with IC / IR, and competition return validation.
+
+### [LiveLink](https://livelink-delta.vercel.app/)
+
+**30-hour Hackathon Prototype**
+
+An AI networking product that structures professional identity and helps users discover higher-value connections.
+
+### [Bull & Bear Exchange Island](https://github.com/lavine888/bull-bear-exchange-island)
+
+**AI-assisted Finance Learning Prototype**
+
+A game-based product that turns candlesticks, market sentiment, and trading strategies into an explorable learning experience.
+
+## 🛠️ Tech Radar
 
 <div align="center">
-
-
 
 ![Skills](https://skillicons.dev/icons?i=python,js,html,css,matlab,r,git,github,vscode)
 
+<br />
 
-
-<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_API-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" />
-
-
-</div>
-
-
-<div align="center">
-
-
-
-| Layer | What I Work With |
-| --- | --- |
-| Programming | Python, JavaScript, HTML, CSS, MATLAB, R, Codex, Claude |
-| AI and Data | NLP, Data Cleaning, Statistical Modeling, Time Series, Computer Vision |
-| Product | AI Product Thinking, Agile Delivery, Scrum, Demo Design |
-| Quant | Factor Research, Signal Evaluation, IC / IR, Return Analysis |
-| Coursework | Data Science, Network Security, Advanced Algebra, Mathematical Analysis |
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex" />
+<img src="https://img.shields.io/badge/OpenAI_API-0A0A0A?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI API" />
 
 </div>
 
 ## 🎓 Education
 
+- **MSc in Computing (Digital Commerce)** · City University of Hong Kong · 2025–present
+- **BSc in Mathematics and Applied Mathematics** · Ocean University of China · 2020–2024
 
+## ⚡ Current Direction
 
-* **Master of Science in Computing( Digital commerce)** - Department of Computer Science - [City University of Hong Kong](https://www.cityu.edu.hk/)
-* *2025 - present*
-* **Bachelor of Science in  Mathematics and Applied Mathematics** - Haide College - [Ocean University of China](https://www.ouc.edu.cn/)
-* *2020 - 2024*
+- Shipping AI products with clearer user problems, stronger demos, and real feedback.
+- Building cleaner quantitative research loops from data preparation to signal evaluation.
 
+## 📫 Contact
 
+Open to AI product, quantitative research, and early-stage collaboration.
 
-
-
-## ⚡Current Direction
-
-- Build small AI-native tools that can be tested by real users.
-- Practice quantitative research with clearer data pipelines and evaluation loops.
-- Turn product ideas into readable demos, repos, and deployment-ready interfaces.
-
-
-
-## 📫Contact
-
-<div align="center">
-
-Open to AI product, data, quantitative modeling, and early-stage product collaboration.
-
-[![Email](https://img.shields.io/badge/Email-lavinexie%40foxmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavinexie@foxmail.com)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14b8a6,100:0f172a)
-
-</div>
+[Portfolio](https://lavine-site.vercel.app/) · [lavinexie@foxmail.com](mailto:lavinexie@foxmail.com)

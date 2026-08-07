@@ -1,167 +1,85 @@
-<div align="center">
+<p align="center">
+  <img src="assets/profile-hero.svg" width="100%" alt="Lavine Xie — AI 产品与量化系统" />
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:14b8a6&text=Lavine%20Xie&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=AI%20Product%20%7C%20Quant%20Modeling%20%7C%20Data%20Systems&descAlignY=58&descSize=16)
+<p align="center">
+  <a href="https://lavine-site.vercel.app/"><img alt="个人网站" src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
+  <a href="mailto:lavinexie@foxmail.com"><img alt="邮箱" src="https://img.shields.io/badge/Email-2563eb?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
+  <img alt="地点" src="https://img.shields.io/badge/Hong%20Kong%20%2F%20Shenzhen-14b8a6?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Math+%2B+Computer+Science+learner;Building+AI+product+prototypes;Exploring+quantitative+signals+with+Python;Turning+ideas+into+testable+systems)](https://git.io/typing-svg)
+<p align="center"><a href="README.md">English</a> · <strong>简体中文</strong></p>
 
-<a href="mailto:lavinexie@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lavinexie%40foxmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<img alt="Location" src="https://img.shields.io/badge/Hong%20Kong%20%2F%20Shenzhen-111827?style=for-the-badge&logo=googlemaps&logoColor=white">
-<img alt="Focus" src="https://img.shields.io/badge/AI%20Product%20%2B%20Quant-14b8a6?style=for-the-badge&logo=openai&logoColor=white">
-<img alt="Views" src="https://komarev.com/ghpvc/?username=lavine888&style=for-the-badge&color=2563eb">
-
-</div>
-
-
-[English](README.md) | **简体中文**
 ## ♓ 关于我
 
-我是一名数学与计算机科学方向的学习者，长期关注 AI 产品、量化建模与数据系统。
+我目前专注于两条相互连接的主线：
 
-我的核心方向，是把模糊想法推进成可运行的系统，包括 AI 应用、产品原型、数据管道，以及可测试的量化策略。
+| AI 产品 | 量化系统 |
+| --- | --- |
+| 以人为本的 AI 应用、Agent 与快速产品原型。 | 基于 Python 的因子研究、信号评估与可复现分析流程。 |
 
-相比停留在想法本身，我更关心它能不能被快速执行、验证和迭代。
+我的工作方式很简单：找到真实问题，搭建最小可信系统，用结果验证，再基于证据迭代。
 
-## 🌳精选项目
+## 🌳 精选项目
 
-<table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/lavine888/loop">我在 · Wozai</a></h3>
-      <p><b>香港 Physical AI Hackathon 赛道第二名 · 与队友共创</b></p>
-      <p>
-        一款围绕真实生命记录与关系托付打造的生命记忆陪伴 Agent：生前留存真实记忆，在经过授权后，以克制、有边界的方式陪伴至亲。
-      </p>
-      <ul>
-        <li>聚焦记忆传承与情感续结，而不是“数字永生”。</li>
-        <li>以本人确认的声音、视频、照片、文字和物件故事为依据，让 AI 负责整理、检索和关联，不代替记录者编造记忆、承诺或意愿。</li>
-        <li>结合 Alloop HRV、可穿戴信号与主动反馈，调节记忆呈现强度，而非诊断情绪。</li>
-        <li>进入决赛，并主动尝试 AI 视频生成，完成产品宣传片处女作。</li>
-      </ul>
-    </td>
-  </tr>
+### [我在 · Wozai](https://github.com/lavine888/loop)
 
-  <tr>
-    <td>
-      <h3><a href="https://omo.space/agentjam">Agent JAM</a></h3>
-      <p><b>深圳 Agent Builder Hackathon 一等奖 · 阶跃星辰主办</b></p>
-      <p>
-        一个空间化 AI 编程协作平台，让团队在共享的 Minecraft 风格世界中共同构建同一个实时项目。
-      </p>
-      <ul>
-        <li>获得深圳 Agent Builder Hackathon 一等奖。</li>
-        <li>围绕多智能体协作、实时项目同步、世界内终端和即时审查体验构建。</li>
-        <li>呈现一种“代码版 Google Docs”的协作体验：空间化、语音驱动，并由 AI 增强。</li>
-        <li>在 2026 年 6 月 14 日的线下黑客松冲刺中完成。</li>
-      </ul>
-    </td>
-  </tr>
+**香港 Physical AI Hackathon 赛道第二名 · 团队共创**
 
-  <tr>
-    <td>
-      <h3><a href="https://github.com/lavine888/bull-bear-exchange-island">Bull & Bear Exchange Island</a></h3>
-      <p><b>使用字节跳动 World Creator Editor 构建的空间化金融世界</b></p>
-      <p>
-        一个沉浸式交易社区，用户以虚拟形象进入空间，学习金融知识、讨论市场、分享策略，并体验牛熊对抗场景。
-      </p>
-      <ul>
-        <li>围绕牛熊阵营、市场情绪和风险教育设计了一个漂浮金融岛。</li>
-        <li>构建 Alpha Tower，作为 K 线、经典案例、交易策略和实时市场视图的分层学习中心。</li>
-        <li>结合实时自选列表、策略分享、社交互动与市场事件玩法。</li>
-        <li>使用 World Creator Editor 中的 AI 辅助地形与资产生成能力完成 3D 世界原型。</li>
-      </ul>
-    </td>
-  </tr>
+一款围绕真实生命记录与关系托付打造的 AI 产品：在获得授权的前提下，把真实记忆有分寸地交给至亲，而不是制造“数字复活”。
 
-  <tr>
-    <td>
-      <h3><a href="https://livelink-delta.vercel.app/">LiveLink</a></h3>
-      <p><b>AI 驱动的价值社交工具</b></p>
-      <p>在 30 小时黑客松中，从概念推进到产品 Demo。</p>
-      <ul>
-        <li>设计核心交互逻辑与多页面产品结构。</li>
-        <li>塑造 AI 驱动的分享与推荐工作流。</li>
-        <li>通过敏捷交付，把假设快速推进成可演示原型。</li>
-      </ul>
-    </td>
-  </tr>
+[项目仓库](https://github.com/lavine888/loop) · [官方网站](https://www.wozai.space/)
 
-  <tr>
-    <td>
-      <h3>PandaAI Quant Factor Competition</h3>
-      <p><b>基于 Python 的量化因子研究</b></p>
-      <p>全国亚军，在数千名参赛者中位列前 1%。</p>
-      <ul>
-        <li>构建了比赛收益超过 50% 的模型。</li>
-        <li>IC 与 IR 指标保持在第一梯队。</li>
-        <li>完成大规模数据清洗与因子挖掘。</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### [Agent JAM](https://omo.space/agentjam)
 
+**深圳 Agent Builder Hackathon 一等奖 · 阶跃星辰主办**
 
-## 🛠️技术雷达
+一款 AI 编程协作产品，把 Agent 执行、共享项目上下文与团队审查放进同一套实时工作流。
+
+### PandaAI 量化因子大赛
+
+**全国亚军 · 前 1%**
+
+基于 Python 完成数据清洗、因子研究、IC / IR 信号评估与比赛收益验证。
+
+### [LiveLink](https://livelink-delta.vercel.app/)
+
+**30 小时黑客松原型**
+
+一款 AI 价值社交产品，通过结构化职业身份，帮助用户发现更有价值的连接。
+
+### [Bull & Bear Exchange Island](https://github.com/lavine888/bull-bear-exchange-island)
+
+**AI 辅助金融学习原型**
+
+一款游戏化金融产品，把 K 线、市场情绪和交易策略转化为可探索的学习体验。
+
+## 🛠️ 技术雷达
 
 <div align="center">
-
-
 
 ![Skills](https://skillicons.dev/icons?i=python,js,html,css,matlab,r,git,github,vscode)
 
+<br />
 
-
-<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_API-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" />
-
-
-</div>
-
-
-<div align="center">
-
-
-
-| 层级 | 我在使用和练习的内容 |
-| --- | --- |
-| 编程 | Python, JavaScript, HTML, CSS, MATLAB, R, Codex, Claude |
-| AI 与数据 | NLP, 数据清洗, 统计建模, 时间序列, 计算机视觉 |
-| 产品 | AI 产品思维, 敏捷交付, Scrum, Demo 设计 |
-| 量化 | 因子研究, 信号评估, IC / IR, 收益分析 |
-| 课程 | 数据科学, 网络安全, 高等代数, 数学分析 |
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex" />
+<img src="https://img.shields.io/badge/OpenAI_API-0A0A0A?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI API" />
 
 </div>
 
-## 🎓教育经历
+## 🎓 教育经历
 
+- **计算机科学硕士（Digital Commerce）** · 香港城市大学 · 2025–至今
+- **数学与应用数学学士** · 中国海洋大学 · 2020–2024
 
+## ⚡ 当前方向
 
-* **Master of Science in Computing (Digital Commerce)** - Department of Computer Science - [City University of Hong Kong](https://www.cityu.edu.hk/)
-* *2025 - present*
-* **Bachelor of Science in Mathematics and Applied Mathematics** - Haide College - [Ocean University of China](https://www.ouc.edu.cn/)
-* *2020 - 2024*
+- 用更清晰的用户问题、更完整的 Demo 和真实反馈打磨 AI 产品。
+- 从数据准备到信号评估，搭建更干净的量化研究闭环。
 
+## 📫 联系我
 
+欢迎围绕 AI 产品、量化研究与早期项目共创展开交流。
 
-
-
-## ⚡当前方向
-
-- 构建小型 AI-native 工具，并让它们接受真实用户测试。
-- 用更清晰的数据管道和评估闭环练习量化研究。
-- 把产品想法沉淀成可阅读的 Demo、Repo 和可部署界面。
-
-
-
-## 📫联系
-
-<div align="center">
-
-欢迎围绕 AI 产品、数据、量化建模和早期产品共创展开交流。
-
-[![Email](https://img.shields.io/badge/Email-lavinexie%40foxmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavinexie@foxmail.com)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14b8a6,100:0f172a)
-
-</div>
-
+[个人网站](https://lavine-site.vercel.app/) · [lavinexie@foxmail.com](mailto:lavinexie@foxmail.com)
