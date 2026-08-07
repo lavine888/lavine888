@@ -72,7 +72,6 @@ Across both tracks, I prefer evidence over storytelling alone: define the real p
 <br />
 
 <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex" />
 <img src="https://img.shields.io/badge/OpenAI_API-0A0A0A?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI API" />
 
 </div>
