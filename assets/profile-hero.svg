@@ -4,19 +4,20 @@
 
   <defs>
     <radialGradient id="ambientBlue" cx="20%" cy="8%" r="70%">
-      <stop offset="0" stop-color="#192a52" stop-opacity="0.48"/>
+      <stop offset="0" stop-color="#192a52" stop-opacity="0.48">
+        <animate attributeName="stop-opacity" values="0.38;0.56;0.38" dur="10s" repeatCount="indefinite"/>
+      </stop>
       <stop offset="1" stop-color="#050914" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="ambientGold" cx="86%" cy="88%" r="54%">
-      <stop offset="0" stop-color="#d6a85a" stop-opacity="0.12"/>
+      <stop offset="0" stop-color="#d6a85a" stop-opacity="0.12">
+        <animate attributeName="stop-opacity" values="0.08;0.16;0.08" dur="8s" repeatCount="indefinite"/>
+      </stop>
       <stop offset="1" stop-color="#050914" stop-opacity="0"/>
     </radialGradient>
     <pattern id="dots" width="74" height="74" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1.2" fill="#d8e0ef" fill-opacity="0.13"/>
     </pattern>
-    <filter id="softShadow" x="-40%" y="-40%" width="180%" height="180%">
-      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#00040c" flood-opacity="0.48"/>
-    </filter>
     <clipPath id="frame">
       <rect width="1200" height="420" rx="28"/>
     </clipPath>
@@ -28,21 +29,18 @@
     <rect width="1200" height="420" fill="url(#ambientGold)"/>
     <rect width="1200" height="420" fill="url(#dots)"/>
 
-    <g transform="translate(92 130)" filter="url(#softShadow)">
-      <circle cx="78" cy="78" r="78" fill="#0a1223" stroke="#d6a85a" stroke-width="2"/>
-      <circle cx="78" cy="78" r="68" fill="none" stroke="#d6a85a" stroke-opacity="0.2"/>
-      <text x="78" y="94" text-anchor="middle" fill="#e8edf8" font-family="Georgia, Times New Roman, serif" font-size="52" font-weight="700" letter-spacing="-3">LX</text>
-      <circle cx="130" cy="25" r="5" fill="#d6a85a"/>
-    </g>
-
-    <g transform="translate(272 82)">
+    <g transform="translate(86 82)">
       <text x="0" y="78" fill="#e8edf8" font-family="Georgia, Times New Roman, serif" font-size="70" font-weight="700" letter-spacing="-3.2">LavineX</text>
 
       <text x="0" y="158" fill="#d6a85a" font-family="Georgia, Times New Roman, serif" font-size="51" font-weight="700" letter-spacing="-2">AI Product Builder</text>
-      <line x1="478" y1="116" x2="478" y2="164" stroke="#d8e0ef" stroke-opacity="0.22" stroke-width="2"/>
+      <line x1="478" y1="116" x2="478" y2="164" stroke="#d8e0ef" stroke-opacity="0.42" stroke-width="2">
+        <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.42;0.5;0.92;1" dur="1.3s" repeatCount="indefinite"/>
+      </line>
       <text x="0" y="220" fill="#d6a85a" font-family="Georgia, Times New Roman, serif" font-size="51" font-weight="700" letter-spacing="-2">Quant Researcher</text>
 
-      <line x1="0" y1="252" x2="80" y2="252" stroke="#d6a85a" stroke-width="3"/>
+      <line x1="0" y1="252" x2="80" y2="252" stroke="#d6a85a" stroke-width="3">
+        <animate attributeName="x2" values="80;132;80" dur="4.8s" repeatCount="indefinite"/>
+      </line>
       <text x="0" y="294" fill="#a8b4c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="0.1">Turning ambitious ideas into working systems — from zero to demo, from signal to evidence.</text>
     </g>
 

@@ -13,13 +13,15 @@
 
 ## ♓ About Me
 
-I build along two connected tracks:
+I have a background in Mathematics and Applied Mathematics and am currently pursuing an MSc in Computing (Digital Commerce) at City University of Hong Kong. My work focuses on two connected tracks: AI products and quantitative systems.
+
+I enjoy turning ambitious ideas into working systems—from zero-to-demo AI products to Python-based factor research. My approach connects technical judgment with product context, rapid experimentation, growth thinking, and clear stakeholder communication.
 
 | AI Products | Quantitative Systems |
 | --- | --- |
 | Human-centered AI applications, agents, and rapid product prototypes. | Python-based factor research, signal evaluation, and reproducible analysis workflows. |
 
-My working style is simple: define the real problem, build the smallest credible system, test it, and iterate from evidence.
+Across both tracks, I prefer evidence over storytelling alone: define the real problem, build the smallest credible system, test it with real users or measurable signals, and improve it through iteration.
 
 ## 🌳 Featured Projects
 
