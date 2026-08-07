@@ -26,6 +26,22 @@ I care less about ideas themselves, and more about whether they can be executed,
 <table>
   <tr>
     <td>
+      <h3><a href="https://github.com/lavine888/loop">Wozai · 我在</a></h3>
+      <p><b>2nd Place in Track · Hong Kong Physical AI Hackathon · Co-created with teammates</b></p>
+      <p>
+        A relationship-centered life-record and entrustment companion Agent: preserve authentic memories while living, then help them reach loved ones with consent and restraint.
+      </p>
+      <ul>
+        <li>Focused on memory continuity and emotional connection—not “digital immortality.”</li>
+        <li>Grounded AI organizes, retrieves, and connects creator-confirmed voice, video, photos, words, and object stories without inventing memories or intentions.</li>
+        <li>Combined Alloop HRV and wearable signals with explicit user feedback to adjust presentation intensity, not diagnose emotion.</li>
+        <li>Reached the final round, and I created the product’s first promotional video with AI video-generation tools.</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
       <h3><a href="https://omo.space/agentjam">Agent JAM</a></h3>
       <p><b>First Prize · Agent Builder Hackathon @ Shenzhen · Hosted by StepFun</b></p>
       <p>

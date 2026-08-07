@@ -26,6 +26,22 @@
 <table>
   <tr>
     <td>
+      <h3><a href="https://github.com/lavine888/loop">我在 · Wozai</a></h3>
+      <p><b>香港 Physical AI Hackathon 赛道第二名 · 与队友共创</b></p>
+      <p>
+        一款围绕真实生命记录与关系托付打造的生命记忆陪伴 Agent：生前留存真实记忆，在经过授权后，以克制、有边界的方式陪伴至亲。
+      </p>
+      <ul>
+        <li>聚焦记忆传承与情感续结，而不是“数字永生”。</li>
+        <li>以本人确认的声音、视频、照片、文字和物件故事为依据，让 AI 负责整理、检索和关联，不代替记录者编造记忆、承诺或意愿。</li>
+        <li>结合 Alloop HRV、可穿戴信号与主动反馈，调节记忆呈现强度，而非诊断情绪。</li>
+        <li>进入决赛，并主动尝试 AI 视频生成，完成产品宣传片处女作。</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
       <h3><a href="https://omo.space/agentjam">Agent JAM</a></h3>
       <p><b>深圳 Agent Builder Hackathon 一等奖 · 阶跃星辰主办</b></p>
       <p>
