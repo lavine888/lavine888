@@ -13,7 +13,7 @@
 
 ## ♓ About Me
 
-I have a background in Mathematics and Applied Mathematics and am currently pursuing an MSc in Computing (Digital Commerce) at City University of Hong Kong. My work focuses on two connected tracks: AI products and quantitative systems.
+I have a background in Mathematics and Applied Mathematics and am currently pursuing an MSc in Computer Science at City University of Hong Kong. My work focuses on two connected tracks: AI products and quantitative systems.
 
 I enjoy turning ambitious ideas into working systems—from zero-to-demo AI products to Python-based factor research. My approach connects technical judgment with product context, rapid experimentation, growth thinking, and clear stakeholder communication.
 
