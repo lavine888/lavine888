@@ -89,7 +89,7 @@ Across both tracks, I prefer evidence over storytelling alone: define the real p
 
 ## 🎓 Education
 
-* **Master of Science in Computing( Digital commerce)** - Department of Computer Science - [City University of Hong Kong](https://www.cityu.edu.hk/)
+* **Master of Science in Computing( Electronic commerce)** - Department of Computer Science - [City University of Hong Kong](https://www.cityu.edu.hk/)
 * *2025 - present*
 * **Bachelor of Science in  Mathematics and Applied Mathematics** - Haide College - [Ocean University of China](https://www.ouc.edu.cn/)
 * *2020 - 2024*
