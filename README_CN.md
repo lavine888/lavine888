@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>
-      <h3><a href="https://omo.space/agentjam">Agent JAM</a></h3>
+      <h3><a href="https://github.com/lavine888/AgentJAM-showcase">Agent JAM</a></h3>
       <p><b>深圳 Agent Builder Hackathon 一等奖 · 阶跃星辰主办</b></p>
       <p>一款 AI 编程协作产品，把 Agent 执行、共享项目上下文与团队审查放进同一套实时工作流。</p>
     </td>
