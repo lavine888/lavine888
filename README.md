@@ -35,7 +35,7 @@ Across both tracks, I prefer evidence over storytelling alone: define the real p
   </tr>
   <tr>
     <td>
-      <h3><a href="https://omo.space/agentjam">Agent JAM</a></h3>
+      <h3><a href="https://github.com/lavine888/AgentJAM-showcase">Agent JAM</a></h3>
       <p><b>First Prize · Agent Builder Hackathon, Shenzhen · Hosted by StepFun</b></p>
       <p>An AI coding collaboration product that brings agent execution, shared project context, and team review into one live workflow.</p>
     </td>
