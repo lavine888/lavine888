@@ -23,45 +23,60 @@
 
 无论做产品还是量化研究，我都更重视证据而不是只讲故事：找到真实问题，搭建最小可信系统，用真实用户或可衡量信号验证，再通过迭代持续改进。
 
-## 🌳 精选项目
+## 🚀 旗舰项目
+
+这些是我在持续维护的系统，而不是一次性 Demo——每一个都有真实的执行链路、测试和明确的边界。
 
 <table>
   <tr>
     <td>
-      <h3><a href="https://www.wozai.space/">我在 · Wozai</a></h3>
-      <p><b>香港 Physical AI Hackathon 赛道第二名 · 团队共创</b></p>
-      <p>一款围绕真实生命记录与关系托付打造的 AI 产品：在获得授权的前提下，把真实记忆有分寸地交给至亲，而不是制造“数字复活”。</p>
+      <h3><a href="https://github.com/lavine888/Lavine-Skill-Runtime">Lavine Skill Runtime</a></h3>
+      <p><b>执行层 · TypeScript + Python</b></p>
+      <p>把审核过的 <code>SKILL.md</code> 变成经过 Schema 校验的网页 / API 产品，同时不把业务逻辑塞进 Runtime。契约优先、来源可追溯，并对外开放 Skill 贡献。</p>
+      <p><a href="https://github.com/lavine888/Lavine-Skill-Runtime/releases/tag/v0.4.0">v0.4.0 Release</a> · <a href="https://github.com/lavine888/Lavine-Skill-Runtime/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">good first issue</a></p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/lavine888/AgentJAM-showcase">Agent JAM</a></h3>
-      <p><b>深圳 Agent Builder Hackathon 一等奖 · 阶跃星辰主办</b></p>
-      <p>一款 AI 编程协作产品，把 Agent 执行、共享项目上下文与团队审查放进同一套实时工作流。</p>
+      <h3><a href="https://github.com/lavine888/Accounting-Red-Flag-Detector">Accounting Red-Flag Detector</a></h3>
+      <p><b>法证量化 Skill · Python · v1.4.0</b></p>
+      <p>时点正确的 A 股财报质量筛查：智能体负责调查，固定规则负责判定，证据负责解释。数据缺失时 fail-closed 到 <code>review</code>，绝不猜成 0。</p>
+      <p>CI · 189 项测试 · 七面红旗 · 可审计的 JSON / Parquet 证据</p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>PandaAI 量化因子大赛</h3>
-      <p><b>全国亚军 · 前 1%</b></p>
-      <p>基于 Python 完成数据清洗、因子研究、IC / IR 信号评估与比赛收益验证。</p>
+      <h3><a href="https://github.com/lavine888/career-alpha">Career Alpha</a></h3>
+      <p><b>以证据为地基的职业 OS · Agent Skills</b></p>
+      <p>先用真实证据审计简历主张，再为目标岗位生成安全、有力、面向未来的定位——不夸大事实。</p>
+      <p>4 条 CI 工作流 · 测试套件 · Codex / Claude Code / OpenCode / TraeWork 插件</p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3><a href="https://livelink-delta.vercel.app/">LiveLink</a></h3>
-      <p><b>30 小时黑客松原型</b></p>
-      <p>一款 AI 价值社交产品，通过结构化职业身份，帮助用户发现更有价值的连接。</p>
+      <h3><a href="https://github.com/lavine888/ScamCity">ScamCity</a></h3>
+      <p><b>AI 社会模拟实验室 · TypeScript + Minecraft</b></p>
+      <p>一个可复现、可解释的反诈干预沙盒：100 位虚构市民与 5 个诈骗 Agent，用同一个 seed 重放不同策略，并从损失、受害与误报成本三个维度比较效果。</p>
+      <p>Next.js · 离线优先 · Web + API + Minecraft 桥接</p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/lavine888/bull-bear-exchange-island">Bull &amp; Bear Exchange Island</a></h3>
-      <p><b>AI 辅助金融学习原型</b></p>
-      <p>一款游戏化金融产品，把 K 线、市场情绪和交易策略转化为可探索的学习体验。</p>
+      <h3><a href="https://github.com/lavine888/flux-evidence-lab">Flux Evidence Lab</a></h3>
+      <p><b>可验证证据与审计层 · JavaScript + Docker</b></p>
+      <p>完整保留一次 AI 辅助金融决策背后的证据链——证据、模型输入、风控干预，以及订单是否真的被创建——形成可回放的审计产物。</p>
+      <p>CI · Docker · 设计上仅限纸面决策</p>
     </td>
   </tr>
 </table>
+
+## 🏆 黑客松与奖项
+
+- **一等奖** — 深圳 Agent Builder Hackathon（阶跃星辰主办）· [Agent JAM](https://github.com/lavine888/AgentJAM-showcase)
+- **赛道第二名** — 香港 Physical AI Hackathon · [我在 · Wozai](https://www.wozai.space/)
+- **全国亚军 · 前 1%** — PandaAI 量化因子大赛
+- **30 小时原型** — [LiveLink](https://livelink-delta.vercel.app/) AI 价值社交
+- **金融学习原型** — [Bull &amp; Bear Exchange Island](https://github.com/lavine888/bull-bear-exchange-island)
 
 ## 🛠️ 技术雷达
 
