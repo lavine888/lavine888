@@ -23,60 +23,45 @@ I enjoy turning ambitious ideas into working systems—from zero-to-demo AI prod
 
 Across both tracks, I prefer evidence over storytelling alone: define the real problem, build the smallest credible system, test it with real users or measurable signals, and improve it through iteration.
 
-## 🚀 Flagship Projects
-
-Maintained systems, not one-off demos — each one has a real execution path, tests, and a documented boundary.
+## 🌳 Featured Projects
 
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/lavine888/Lavine-Skill-Runtime">Lavine Skill Runtime</a></h3>
-      <p><b>Execution layer · TypeScript + Python</b></p>
-      <p>Turns reviewed <code>SKILL.md</code> files into schema-validated web / API products without teaching the runtime their business logic. Contract-first, provenance-aware, and open to external Skill contributions.</p>
-      <p><a href="https://github.com/lavine888/Lavine-Skill-Runtime/releases/tag/v0.4.0">v0.4.0 release</a> · <a href="https://github.com/lavine888/Lavine-Skill-Runtime/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">good first issues</a></p>
+      <h3><a href="https://www.wozai.space/">Wozai · 我在</a></h3>
+      <p><b>2nd Place in Track · Hong Kong Physical AI Hackathon · Team Project</b></p>
+      <p>A relationship-centered AI product for preserving authentic life records and entrusting them to loved ones with consent and restraint—not digital resurrection.</p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/lavine888/Accounting-Red-Flag-Detector">Accounting Red-Flag Detector</a></h3>
-      <p><b>Forensic quant Skill · Python · v1.4.0</b></p>
-      <p>Point-in-time A-share accounting-quality screen: the agent investigates, fixed rules decide, and evidence explains. Missing data fails closed to <code>review</code> instead of being guessed as zero.</p>
-      <p>CI · 189 tests · seven forensic rules · auditable JSON / Parquet evidence</p>
+      <h3><a href="https://github.com/lavine888/AgentJAM-showcase">Agent JAM</a></h3>
+      <p><b>First Prize · Agent Builder Hackathon, Shenzhen · Hosted by StepFun</b></p>
+      <p>An AI coding collaboration product that brings agent execution, shared project context, and team review into one live workflow.</p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/lavine888/career-alpha">Career Alpha</a></h3>
-      <p><b>Evidence-grounded career OS · Agent Skills</b></p>
-      <p>Audits career claims against real evidence, then builds safe, strong, and future positioning for a target role — without upgrading the facts.</p>
-      <p>4 CI workflows · test suite · Codex / Claude Code / OpenCode / TraeWork plugins</p>
+      <h3>PandaAI Quant Factor Competition</h3>
+      <p><b>National Runner-up · Top 1%</b></p>
+      <p>A Python factor-research workflow for data cleaning, IC / IR signal evaluation, and competition return validation.</p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/lavine888/ScamCity">ScamCity</a></h3>
-      <p><b>AI society simulation lab · TypeScript + Minecraft</b></p>
-      <p>A seeded, explainable fraud-intervention sandbox: 100 synthetic citizens and 5 scam agents, replayable from the same seed to compare interventions by loss, harm, and false-positive cost.</p>
-      <p>Next.js · offline-first · Web + API + Minecraft bridge</p>
+      <h3><a href="https://livelink-delta.vercel.app/">LiveLink</a></h3>
+      <p><b>30-hour Hackathon Prototype</b></p>
+      <p>An AI networking product that structures professional identity and helps users discover higher-value connections.</p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/lavine888/flux-evidence-lab">Flux Evidence Lab</a></h3>
-      <p><b>Verifiable evidence &amp; audit layer · JavaScript + Docker</b></p>
-      <p>Preserves the full decision trail behind an AI-assisted financial decision — evidence, model inputs, risk controls, and whether an order was actually created — as a replayable audit artifact.</p>
-      <p>CI · Docker · paper-only by design</p>
+      <h3><a href="https://github.com/lavine888/bull-bear-exchange-island">Bull &amp; Bear Exchange Island</a></h3>
+      <p><b>AI-assisted Finance Learning Prototype</b></p>
+      <p>A game-based product that turns candlesticks, market sentiment, and trading strategies into an explorable learning experience.</p>
     </td>
   </tr>
 </table>
-
-## 🏆 Hackathons & Awards
-
-- **First Prize** — Agent Builder Hackathon, Shenzhen (hosted by StepFun) · [Agent JAM](https://github.com/lavine888/AgentJAM-showcase)
-- **2nd Place in Track** — Hong Kong Physical AI Hackathon · [Wozai · 我在](https://www.wozai.space/)
-- **National Runner-up · Top 1%** — PandaAI Quant Factor Competition
-- **30-hour prototype** — [LiveLink](https://livelink-delta.vercel.app/) AI networking
-- **Finance learning prototype** — [Bull &amp; Bear Exchange Island](https://github.com/lavine888/bull-bear-exchange-island)
 
 ## 🛠️ Tech Radar
 
