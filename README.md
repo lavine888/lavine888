@@ -28,6 +28,13 @@ Across both tracks, I prefer evidence over storytelling alone: define the real p
 <table>
   <tr>
     <td>
+      <h3><a href="https://github.com/lavine888/CourtCast-Showcase">CourtCast</a></h3>
+      <p><b>Bronze Award · NBA × AWS Hackathon · Team Project</b></p>
+      <p>An AI basketball commentary product that connects game footage with official data to explain player decisions, generate narrated breakdowns, and let viewers explore the evidence behind each play.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h3><a href="https://www.wozai.space/">Wozai · 我在</a></h3>
       <p><b>2nd Place in Track · Hong Kong Physical AI Hackathon · Team Project</b></p>
       <p>A relationship-centered AI product for preserving authentic life records and entrusting them to loved ones with consent and restraint—not digital resurrection.</p>
